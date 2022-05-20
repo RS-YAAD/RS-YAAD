@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 
-<details id="missing-code-coverage">
+<br><details id="missing-code-coverage">
 <summary>CONTACT ME</summary><br>
 <details id="missing-code-coverage">
 <summary>FACEBOOK</summary><a href="https://www.facebook.com/its.rs.yaad"><img align="left" title="Facebook" alt="Facebook" width="30px" src="pic/facebook.png" />FACEBOOK</a><br><br>
