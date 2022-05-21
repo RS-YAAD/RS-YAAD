@@ -1,5 +1,5 @@
 <!-- Github README -->
-<a href="github.com/RS-YAAD"><img src="pic/text.gif" alt="gif" width="350px"></img></a>
+<a href="github.com/RS-YAAD"><img src="pic/text.gif" alt="gif" width="400px"></img></a>
 <p align="center"><a href="https://github.com/RS-YAAD">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RS-YAAD&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 
