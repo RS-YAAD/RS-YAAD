@@ -2,7 +2,9 @@
 <a href="github.com/RS-YAAD"><img src="pic/text.gif" alt="gif" width="400px"></img></a>
 <p align="center"><a href="https://github.com/RS-YAAD">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RS-YAAD&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-<a href="https://github.com/RS-YAAD"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=RS-YAAD&color=blueviolet&style=flat-square"></a><br>
+<a href="https://github.com/RS-YAAD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RS-YAAD&layout=compact&theme=react&hide_border=true" />
+</a<br><a href="https://github.com/RS-YAAD"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=RS-YAAD&color=blueviolet&style=flat-square"></a><br>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
