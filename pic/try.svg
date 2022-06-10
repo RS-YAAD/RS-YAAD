@@ -1,0 +1,21 @@
+<svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .tanzu {
+        animation: blink-animation 0.3s steps(5, start) infinite;
+        }
+        @keyframes blink-animation {
+        to {
+        visibility: hidden; font: italic 40px serif; fill: red;
+        }
+        }
+        .tan {
+        font: italic 25px sans-serif; fill: green;
+        }
+        .zu {
+        font: italic 23px sans-serif; fill: cyan
+}
+    </style>
+    <text x="17" y="39" class="tan">HEY</text>
+    <text x="49" y="55" class="zu">I'M</text>
+    <text x="75" y="45" class="tanzu">TANZU</text>
+</svg>
